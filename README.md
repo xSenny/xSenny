@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm xSenny_</h1>
 <h3 align="center">A passionate software developer from Moldova</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.cd59d626dc86397fe45080e6e9c7027d?rik=aVlOvmB63y%2bBgw&pid=ImgRaw&r=0" />
-- 🔭 I’m currently working on <a href="compiler.xsenny.dev">XCompier</a>
+- 🔭 I’m currently working on <a target="_blank" href="https://compiler.xsenny.dev">XCompier</a>
 
 - 🌱 I’m currently learning **React**
 
